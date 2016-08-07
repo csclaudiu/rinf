@@ -1,0 +1,29 @@
+﻿<a class="btn btn-primary" href="#/new">Add</a>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                Product name
+            </th>
+            <th>
+                Product description
+            </th>
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    <tr ng-repeat="product in products">
+        <td>
+            <b> {{product.name}}</b>
+        </td>
+        <td>
+            {{product.description}}
+        </td>
+        <td>
+            <a class="btn btn-default" href="#/edit/{{product.id}}">Edit</a>
+            <input type="button" class="btn btn-danger" value="Delete" ng-click="delete(product)" />
+        </td>
+    </tr>
+</table>

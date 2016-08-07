@@ -1,0 +1,4 @@
+C:\Users\Claudiu\Documents\Proiecte\Rinf\BusinessModels\bin\Debug\BusinessModels.dll
+C:\Users\Claudiu\Documents\Proiecte\Rinf\BusinessModels\bin\Debug\BusinessModels.pdb
+C:\Users\Claudiu\Documents\Proiecte\Rinf\BusinessModels\obj\Debug\BusinessModels.dll
+C:\Users\Claudiu\Documents\Proiecte\Rinf\BusinessModels\obj\Debug\BusinessModels.pdb
